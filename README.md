@@ -1,0 +1,1 @@
+This works with Spigot/papermc Sw version 1.20.1. When a player hits a player, Pvp time comes. Pvp time is 20 seconds. If he cannot use a command within 20 seconds and leaves the game, he dies and his items fall to the ground.
